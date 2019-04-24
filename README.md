@@ -6,3 +6,6 @@ You need to download and install the libraries for serial communication with mbe
 
 ## Corresponding Paper
 You can read more about the path tracking algorithm here: https://ieeexplore.ieee.org/document/7053862
+
+## Video Demonstration 
+A video demonstration of the algorithm is available here: https://www.youtube.com/watch?v=K2Utc9_1dOk
